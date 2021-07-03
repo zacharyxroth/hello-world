@@ -1,11 +1,9 @@
 # hello-world
 
-New to github but I've been dabbling with programming for some time. 
+I'm here to learn and experiment with the inner workings of smart contracts and algorithmic trading strategies.
 
-I'm here to utilize and learn the inner workings of smart contracts and algorithmic trading strategies primarily, 
-so I'll be focusing on the Python and Solidity languages for now
+Currently, I'm focusing on Python but I hope to move to Solidity and Rust sooner or later.
 
-I also want to work on some music graphics and visualization techology so if you are into that, hmu.
-NFTs are interesting as well. There's alot you can do with them that isn't cringey art
+My background is in music but I work in crypto and finance. I'm looking to make crypto my career.
 
-bye-world
+# bye-world
